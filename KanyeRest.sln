@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanyeRest", "KanyeRest\KanyeRest.csproj", "{D2AD5CF5-2FCB-456A-A9AA-00C352C03C71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2AD5CF5-2FCB-456A-A9AA-00C352C03C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AD5CF5-2FCB-456A-A9AA-00C352C03C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AD5CF5-2FCB-456A-A9AA-00C352C03C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AD5CF5-2FCB-456A-A9AA-00C352C03C71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2170ADAB-EA30-4C2A-B631-531AEB34033A}
+	EndGlobalSection
+EndGlobal
